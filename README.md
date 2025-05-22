@@ -1,4 +1,4 @@
-## Hi there 👋
+## 📡 Telegram 实用资源导航指南（每日更新） 👋
 
 <!--
 **telesousou/telesousou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
