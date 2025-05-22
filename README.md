@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 - 进入中文资源搜索频道 ➜ [`@telesousou1`](https://t.me/telesousou1)  
 - 进入中文指南频道➜ [`@telesousou`](https://t.me/telesousou)】
 - 快速获取独立搜索机器人➜ [`Telesousou独立搜索机器人`](https://goo.su/7S9ZU)（超过百万人的选择）
+- VPN推荐：[`便宜好用加速器（🍎安卓都🉑）`](https://www.xfx04.com/#/register?code=osk8GCti)
 - 在群组固直接发送【中文包】即可获得中文安装包，几秒钟即可搞定！
 
 ---
@@ -71,6 +72,9 @@ Telegram（简称 TG）是目前全球主流的安全加密通讯平台，信息
 
 ### ❓ 群太多了怎么整理？
 建议使用频道标签功能，或关注固定推荐榜单 ➜ 群内会每日发布精选内容合集。
+
+### ❓ 需要购买电报号？
+添加【[`@tgzhuanye`](https://t.me/tgzhuanye)】
 
 ---
 
