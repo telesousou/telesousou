@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 进入中文资源搜索频道 ➜ [`@telesousou1`](https://t.me/telesousou1)  
 - 进入中文指南频道➜ [`@telesousou`](https://t.me/telesousou)】
 - 快速获取独立搜索机器人➜ [`Telesousou独立搜索机器人`](https://goo.su/7S9ZU)（超过百万人的选择）
-在群组固直接发送【中文包】即可获得中文安装包，几秒钟即可搞定！
+- 在群组固直接发送【中文包】即可获得中文安装包，几秒钟即可搞定！
 
 ---
 
