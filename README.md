@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 📌 推荐工具：  
 - 🧠 智能搜索引擎：[`Telesousou独立搜索机器人`](https://goo.su/7S9ZU)（超过百万人的选择）
 - 📬 群组入口：[`@telesousou1`](https://t.me/telesousou1)
-- - VPN推荐：[`便宜好用加速器（🍎安卓都🉑）`](https://www.xfx04.com/#/register?code=osk8GCti)
+- VPN推荐：[`便宜好用加速器（🍎安卓都🉑）`](https://www.xfx04.com/#/register?code=osk8GCti)
 - ✅ 每天动动手，就有机会触发 USDT 红包奖励机制（仅限每日活跃用户）
 
 使用方式非常简单，在群内直接输入关键词，如：
