@@ -24,10 +24,12 @@ Here are some ideas to get you started:
 很多新用户苦恼 TG 是英文界面，其实只要一键安装中文语言包即可！
 
 📎 获取方法：  
-- 进入中文资源搜索频道 ➜ [`@telesousou1`](https://t.me/telesousou1)  
-- 进入中文指南频道➜ [`@telesousou`](https://t.me/telesousou)】
+- 进入中文资源搜索频道 ➜ 电报中文搜索[`@telesousou1`](https://t.me/telesousou1)  
+- 进入中文指南频道➜  电报中文指南[`@telesousou`](https://t.me/telesousou)】
 - 快速获取独立搜索机器人➜ [`Telesousou独立搜索机器人`](https://goo.su/7S9ZU)（超过百万人的选择）
+- 备份搜索站（十八禁）➜ 色色吃瓜·成人搜索🔞[`@telesousou18`](https://t.me/telesousou18)
 - VPN推荐：[`便宜好用加速器（🍎安卓都🉑）`](https://www.xfx04.com/#/register?code=osk8GCti)
+- 专项客服（批发全新电报号）：[`@tgzhuanye`](https://t.me/tgzhuanye)
 - 在群组固直接发送【中文包】即可获得中文安装包，几秒钟即可搞定！
 
 ---
