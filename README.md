@@ -24,14 +24,14 @@ Here are some ideas to get you started:
 很多新用户苦恼 TG 是英文界面，其实只要一键安装中文语言包即可！
 
 📎 获取方法：  
-进入中文资源搜索频道 ➜ [`@telesousou1`](https://t.me/telesousou1)  
-进入中文指南频道➜ [`@telesousou`](https://t.me/telesousou)】
-快速获取独立搜索机器人➜ [`Telesousou独立搜索机器人`](https://goo.su/7S9ZU)（超过百万人的选择）
-在群组固定消息中找到【中文包安装】教程，几秒钟即可搞定！
+- 进入中文资源搜索频道 ➜ [`@telesousou1`](https://t.me/telesousou1)  
+- 进入中文指南频道➜ [`@telesousou`](https://t.me/telesousou)】
+- 快速获取独立搜索机器人➜ [`Telesousou独立搜索机器人`](https://goo.su/7S9ZU)（超过百万人的选择）
+在群组固直接发送【中文包】即可获得中文安装包，几秒钟即可搞定！
 
 ---
 
-## 🧭 高效资源搜索：SOSO 群组搜索工具
+## 🧭 高效资源搜索：TeleSousou群组搜索工具
 
 你是否也曾在 Telegram 上遇到这些问题：
 
@@ -76,9 +76,9 @@ Telegram（简称 TG）是目前全球主流的安全加密通讯平台，信息
 
 ## 🚀 快速入口
 
-- 🔗 搜索群组：【[`@telesousou1`](https://t.me/telesousou1)】
+- 🔗 搜索群组：【[`@telesousou1`](https://t.me/telesousou1)】（中文包获取：进群发送“中文包”即可）
 - 🧭 中文指南频道：【[`@telesousou`](https://t.me/telesousou)】
-- 🌐 中文包获取：进群发送“中文包”即可【[`https://goo.su/8FM7V`](https://goo.su/8FM7V)】
+- 🌐 电报独立机器人【[`https://goo.su/7S9ZU`](https://goo.su/7S9ZU)
 - 🎉 每日红包机制开放中，欢迎体验！
 
 ---
