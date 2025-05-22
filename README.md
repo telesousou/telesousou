@@ -1,4 +1,4 @@
-## 📡 Telegram中文实用资源导航指南（每日更新）
+### 📡 Telegram中文实用资源导航指南（每日更新）
 ## 电报暗网搜索·TG资源搜索·Telegram中文包·成人吃瓜群组
 <!--
 **telesousou/telesousou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
