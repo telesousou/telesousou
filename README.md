@@ -84,7 +84,7 @@ Telegram（简称 TG）是目前全球主流的安全加密通讯平台，信息
 
 - 🔗 搜索群组：【[`@telesousou1`](https://t.me/telesousou1)】（中文包获取：进群发送“中文包”即可）
 - 🧭 中文指南频道：【[`@telesousou`](https://t.me/telesousou)】
-- 🌐 电报独立机器人【[`https://goo.su/7S9ZU`](https://goo.su/7S9ZU)
+- 🌐 电报独立机器人【[`https://goo.su/7S9ZU`](https://goo.su/7S9ZU)】
 - 🎉 每日红包机制开放中，欢迎体验！
 
 ---
